@@ -23,7 +23,6 @@
     <a href="https://gitlab.com/AneDuarte" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href = "mailto:anart.lodes73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:ane_duarte@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-   
  
  ![Snake animation](https://github.com/AneDuarte/AneDuarte/blob/output/github-contribution-grid-snake.svg)
  
