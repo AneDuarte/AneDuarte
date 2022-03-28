@@ -13,6 +13,7 @@
   <img align="center" alt="Ane-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Ane-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Ane-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ane-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="right" alt="Ane-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/917778748374384642/917778823183994910/picasion.com_0b01889b0e59e306d486874039c7f81e.gif">
 </div>
 
