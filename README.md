@@ -7,23 +7,23 @@
   </a>
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items: center; margin:2% 0 2% 0">
-  <div style="display:inline-block; align-itens:center">
-    <img alt="Ane-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img alt="Ane-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img alt="Ane-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img alt="Ane-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img alt="Ane-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img alt="Ane-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  </div>
-  <div style="display:inline-block">
-    <img height="140" style="border-radius: 50px;" src="https://cdn.discordapp.com/attachments/917778748374384642/917778823183994910/picasion.com_0b01889b0e59e306d486874039c7f81e.gif" alt="Ane's GIF">
-  </div>
+<br>
+
+<div>
+  <img height="140" src="https://cdn.discordapp.com/attachments/917778748374384642/917778823183994910/picasion.com_0b01889b0e59e306d486874039c7f81e.gif" alt="Ane's GIF">
+  <span style="display: block;">
+      <img alt="Ane-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img alt="Ane-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      <img alt="Ane-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      <img alt="Ane-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+      <img alt="Ane-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img alt="Ane-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  </span>
 </div>
 
 ##
 
-<div align="left"> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/anebduarte/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -38,7 +38,7 @@
   </a>
 </div>
 
-
+<br>
 
 <div align="center">
   <p align="center">🚀 Seja bem-vindo ao meu GitHub! Aqui você encontrará projetos relacionados a diversas tecnologias e linguagens de programação. Fique à vontade para explorar!</p>
