@@ -1,14 +1,14 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/AneDuarte">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AneDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ane's GitHub Stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AneDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ane's GitHub Stats">
   </a>
   <a href="https://github.com/AneDuarte">
-    <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneDuarte&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages">
+    <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneDuarte&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages">
   </a>
 </div>
 
 <div style="display:flex; justify-content:space-between; align-items: center; margin:2% 0 2% 0">
-  <div style="display:inline-block; align-itens:center" class=tecnologias>
+  <div style="display:inline-block; align-itens:center">
     <img alt="Ane-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img alt="Ane-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img alt="Ane-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
