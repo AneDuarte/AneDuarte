@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div>
   <a href="https://github.com/AneDuarte">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AneDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ane's GitHub Stats">
   </a>
@@ -11,7 +11,7 @@
 
 <div>
   <img height="140" src="https://cdn.discordapp.com/attachments/917778748374384642/917778823183994910/picasion.com_0b01889b0e59e306d486874039c7f81e.gif" alt="Ane's GIF">
-  <span style="display: block;">
+  <span>
       <img alt="Ane-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img alt="Ane-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       <img alt="Ane-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
