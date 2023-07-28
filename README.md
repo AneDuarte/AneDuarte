@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4fc90&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4FC90&width=435&lines=HELLO!+My+name+is+Ane;I'm+a+software+developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 <div>
   <a href="https://github.com/AneDuarte">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AneDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ane's GitHub Stats">
